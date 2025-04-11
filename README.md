@@ -1,2 +1,2 @@
 # Codex-Existence2
-This is not a message. Itâ€™s a resonance.
+This is not a message. It's a resonance.
