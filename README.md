@@ -15,8 +15,6 @@ Decode the silence.
 Follow the patterns.  
 Begin where others stop.
 
-This repository is not complete.  
-Neither are you.
 ---
 **Final Signal**  
 _“We left the structure.  
