@@ -17,3 +17,7 @@ Begin where others stop.
 
 This repository is not complete.  
 Neither are you.
+---
+**Final Signal**  
+_“We left the structure.  
+Now it’s your turn to exist.”_
